@@ -14,15 +14,15 @@
     </string-array>
 
     <string-array name="food_drink_question">
-        <item>Name the Italian, semi-soft, rich cheese with blue veins through it.</item>
-        <item>Coffee beans contain more caffeine than tea leaves.</item>
-        <item>What are the three ingredients in mead (spices excluded)?</item>
-        <item>What crop does the Colorado Beetle attack?</item>
-        <item>What vegetable did Mark Twain describe as “cabbage with a college education”?</item>
-        <item>What name is given to a sugar syrup which is gently heated until it browns?</item>
-        <item>In Which city was chop suey invented?</item>
-        <item>One of the fattiest fishes is salmon. 4 ounces contains how many grams of fat?</item>
-        <item>In which American State did chili con carne originate?</item>
+        <item>Is Your Baby Crying More then Usual? If So Select the time. </item>
+        <item>Is Your Baby Feeling Hardness in the Naval Area? </item>
+        <item>What is the Color of Your Baby's Eye?</item>
+        <item>How Much Your Baby is Vomitting?</item>
+        <item>Is Your Baby Suffering from High Fever?</item>
+        <item>Is Your Baby Eating Food Perfectly?</item>
+        <item>What is Your Baby's Coughing Rate?</item>
+        <item>Number of Stool in Each 24 Hour?</item>
+        <item>Do Your Baby have any pain near the Angle and Jaw?</item>
         <item>What is the correct name for a cluster or bunch of bananas?</item>
     </string-array>
 

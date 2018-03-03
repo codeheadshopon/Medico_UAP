@@ -59,7 +59,7 @@ public class FoodDrinkQuizz implements QuizzContent {
         mQuizzQuestions.add(new QuizzQuestion(question, mPossibleAnswer, mAnswer) {
             @Override
             public Fragment getQuizzFragment() {
-                return new CheckBoxValueSelectionFragment();
+                return new GroupLayoutSelectionFragment();
             }
         });
 
@@ -81,7 +81,7 @@ public class FoodDrinkQuizz implements QuizzContent {
         mQuizzQuestions.add(new QuizzQuestion(question, mPossibleAnswer, mAnswer) {
             @Override
             public Fragment getQuizzFragment() {
-                return new RadioGroupSelectionFragment();
+                return new TrueFalseSelectionFragment();
             }
         });
 
@@ -92,7 +92,7 @@ public class FoodDrinkQuizz implements QuizzContent {
         mQuizzQuestions.add(new QuizzQuestion(question, mPossibleAnswer, mAnswer) {
             @Override
             public Fragment getQuizzFragment() {
-                return new TextValueSelectionFragment();
+                return new TrueFalseSelectionFragment();
             }
         });
 
@@ -103,7 +103,7 @@ public class FoodDrinkQuizz implements QuizzContent {
         mQuizzQuestions.add(new QuizzQuestion(question, mPossibleAnswer, mAnswer) {
             @Override
             public Fragment getQuizzFragment() {
-                return new RadioGroupSelectionFragment();
+                return new GroupLayoutSelectionFragment();
             }
         });
 
@@ -125,7 +125,7 @@ public class FoodDrinkQuizz implements QuizzContent {
         mQuizzQuestions.add(new QuizzQuestion(question, mPossibleAnswer, mAnswer) {
             @Override
             public Fragment getQuizzFragment() {
-                return new TextValueSelectionFragment();
+                return new TrueFalseSelectionFragment();
             }
         });
 

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">GameQuizzz!</string>
-    <string name="topic_food_drink">Food and drink</string>
+    <string name="topic_food_drink">Baby</string>
 
     <string name="history">History</string>
     <string name="science_and_nature">Science and nature</string>
@@ -27,15 +27,15 @@
     <string name="history_answer_8">Corsica;Sardinia,Corsica,Tahiti,Réunion,New Caledonia</string>
     <string name="history_answer_9">New Mexico,California,Texas;Arizona,New Mexico,Louisiana,California,Nevada,Utah,Texas</string>
 
-    <string name="food_drink_answer_0">Gorgonzola;Ricotta,Blue Cheese,Gorgonzola,Parmesan</string>
-    <string name="food_drink_answer_1">false</string>
-    <string name="food_drink_answer_2">Honey,Water,Yeast;Sugar,Honey,Cinnamon,Water,Brow Sugar,Yeast</string>
-    <string name="food_drink_answer_3">Potato;Corn,Garlic,Potato,Wheat</string>
-    <string name="food_drink_answer_4">Cauliflower;Spinach,Broccoli,Cauliflower,Kale</string>
-    <string name="food_drink_answer_5">caramel</string>
-    <string name="food_drink_answer_6">San Francisco;Hong Kong,Taipei,New York,San Francisco</string>
+    <string name="food_drink_answer_0">Evening;Morning,Evening,Late Night,Not Applicable</string>
+    <string name="food_drink_answer_1">true</string>
+    <string name="food_drink_answer_2">Yellow;Yellow,Red,Too Yellow,Normal</string>
+    <string name="food_drink_answer_3">Continiously;Continiously,Not too frequently,Sometimes,No Vomitting</string>
+    <string name="food_drink_answer_4">true</string>
+    <string name="food_drink_answer_5">true</string>
+    <string name="food_drink_answer_6">Heavy;Heavy, Light,Dry ,No Cough</string>
     <string name="food_drink_answer_7">9;1,10</string>
-    <string name="food_drink_answer_8">texas</string>
+    <string name="food_drink_answer_8">true</string>
     <string name="food_drink_answer_9">Hand;Foot,Hand,Flock,Pod</string>
 
     <string name="science_nature_answer_0">mantle</string>

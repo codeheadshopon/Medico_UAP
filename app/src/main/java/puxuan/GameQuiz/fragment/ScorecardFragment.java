@@ -24,7 +24,7 @@ import puxuan.GameQuiz.model.QuizzQuestion;
 public class ScorecardFragment extends Fragment {
 
     private QuizzListener mListener;
-
+    
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
